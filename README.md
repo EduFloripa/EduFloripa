@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EduFloripa
-- 👀 I’m interested in Cience Data
 - 💞️ I’m looking to collaborate on open source projects
 
 
